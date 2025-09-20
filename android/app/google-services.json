@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "150799392919",
+    "project_id": "iyellowcardv2",
+    "storage_bucket": "iyellowcardv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150799392919:android:745b715b3dc0eba97549d2",
+        "android_client_info": {
+          "package_name": "com.angelaureada_21.iYellowCard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB5kDqjDgbUJIvp2hRmYTAsiYOCWHzQ4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

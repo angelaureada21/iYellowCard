@@ -1,0 +1,15 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.organizeImports": "explicit",
+    "source.sortMembers": "explicit"
+  },
+  "files.exclude": {
+    "**/node_modules/expo/android/**": true
+  },
+  "search.exclude": {
+    "**/node_modules/expo/android/**": true
+  },
+  "java.configuration.runtimes": [],
+  "java.errors.incompleteClasspath.severity": "ignore"
+}

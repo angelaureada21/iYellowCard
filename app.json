@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "iYellowCard",
+    "slug": "iYellowCard",
+    "owner": "angelaureada_21",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"],
+    "icon": "./assets/IYELLOWCARDICON.png",
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/IYELLOWCARDICON.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "679a4194-194f-4519-9c8d-b5c1e7322a12"
+      }
+    }
+  }
+}
